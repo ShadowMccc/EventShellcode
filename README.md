@@ -12,3 +12,6 @@
 1. Read Shellcode from HardwareEvents and execute it. After executing the Shellcode, the event logs will be cleared. Of course, you can choose to modify this behavior to not clear logs.
 
 **Note:** Admin privileges are required to write to HardwareEvents. The Shellcode can be encrypted using any preferred method.
+
+### References:
+ https://securelist.com/a-new-secret-stash-for-fileless-malware/106393/

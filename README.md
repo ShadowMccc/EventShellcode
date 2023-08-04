@@ -1,0 +1,2 @@
+# EventShellcode
+对卡巴斯基发现的一个将shellcode写入Eventlog的利用方式的复现和加强
